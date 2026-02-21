@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Data/NorthwindSurfer.Data.csproj" />
+  <Project Path="../NorthwindSurfer.Model/NorthwindSurfer.Model.csproj" />
+  <Project Path="../NorthwindSurfer.Service/NorthwindSurfer.Service.csproj" />
+  <Project Path="NorthwindSurfer.Client.csproj" />
+</Solution>
