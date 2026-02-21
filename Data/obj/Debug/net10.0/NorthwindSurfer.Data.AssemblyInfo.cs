@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NorthwindSurfer.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6553dade465e31a9dc2b52fa9c4d574ac4c1bd1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NorthwindSurfer.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NorthwindSurfer.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
