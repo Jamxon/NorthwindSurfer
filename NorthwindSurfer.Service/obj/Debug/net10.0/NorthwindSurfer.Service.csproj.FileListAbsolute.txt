@@ -1,0 +1,17 @@
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Service.deps.json
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Service.dll
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Service.pdb
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Data.dll
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Model.dll
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Data.pdb
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\bin\Debug\net10.0\NorthwindSurfer.Model.pdb
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.AssemblyInfo.cs
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\Northwin.24805179.Up2Date
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.dll
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\refint\NorthwindSurfer.Service.dll
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\NorthwindSurfer.Service.pdb
+C:\Users\ThinkPad\Desktop\NorthwindSurfer\NorthwindSurfer.Service\obj\Debug\net10.0\ref\NorthwindSurfer.Service.dll
